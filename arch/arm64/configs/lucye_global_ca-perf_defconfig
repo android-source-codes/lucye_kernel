@@ -1,0 +1,3 @@
+include lucye_global_ca_common
+include lucye_common-perf
+CONFIG_USB_HOST_NOTIFY=y
